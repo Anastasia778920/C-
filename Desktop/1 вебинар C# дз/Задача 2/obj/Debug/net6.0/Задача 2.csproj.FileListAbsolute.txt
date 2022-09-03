@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/bin/Debug/net6.0/Задача 2
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/bin/Debug/net6.0/Задача 2.deps.json
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/bin/Debug/net6.0/Задача 2.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/bin/Debug/net6.0/Задача 2.dll
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/bin/Debug/net6.0/Задача 2.pdb
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.dll
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/refint/Задача 2.dll
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.pdb
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/Задача 2.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/1 вебинар C# дз/Задача 2/obj/Debug/net6.0/ref/Задача 2.dll
