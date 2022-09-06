@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/bin/Debug/net6.0/Задание 15
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/bin/Debug/net6.0/Задание 15.deps.json
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/bin/Debug/net6.0/Задание 15.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/bin/Debug/net6.0/Задание 15.dll
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/bin/Debug/net6.0/Задание 15.pdb
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.dll
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/refint/Задание 15.dll
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.pdb
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/Задание 15.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 15/obj/Debug/net6.0/ref/Задание 15.dll
