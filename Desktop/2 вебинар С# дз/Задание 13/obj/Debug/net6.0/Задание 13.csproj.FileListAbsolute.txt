@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/bin/Debug/net6.0/Задание 13
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/bin/Debug/net6.0/Задание 13.deps.json
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/bin/Debug/net6.0/Задание 13.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/bin/Debug/net6.0/Задание 13.dll
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/bin/Debug/net6.0/Задание 13.pdb
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.dll
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/refint/Задание 13.dll
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.pdb
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/Задание 13.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/2 вебинар С# дз/Задание 13/obj/Debug/net6.0/ref/Задание 13.dll
