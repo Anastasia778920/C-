@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/bin/Debug/net6.0/Задача 25
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/bin/Debug/net6.0/Задача 25.deps.json
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/bin/Debug/net6.0/Задача 25.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/bin/Debug/net6.0/Задача 25.dll
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/bin/Debug/net6.0/Задача 25.pdb
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.dll
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/refint/Задача 25.dll
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.pdb
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/Задача 25.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 25/obj/Debug/net6.0/ref/Задача 25.dll
