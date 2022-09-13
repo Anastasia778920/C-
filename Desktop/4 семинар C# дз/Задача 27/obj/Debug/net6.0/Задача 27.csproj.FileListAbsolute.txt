@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/bin/Debug/net6.0/Задача 27
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/bin/Debug/net6.0/Задача 27.deps.json
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/bin/Debug/net6.0/Задача 27.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/bin/Debug/net6.0/Задача 27.dll
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/bin/Debug/net6.0/Задача 27.pdb
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.dll
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/refint/Задача 27.dll
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.pdb
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/Задача 27.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/4 семинар C# дз/Задача 27/obj/Debug/net6.0/ref/Задача 27.dll
