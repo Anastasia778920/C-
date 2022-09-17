@@ -1,0 +1,5 @@
+/Users/anastasiazaharova/Desktop/6 вебинар дз/Задача 41/obj/Debug/net6.0/Задача 41.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/6 вебинар дз/Задача 41/obj/Debug/net6.0/Задача 41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/6 вебинар дз/Задача 41/obj/Debug/net6.0/Задача 41.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/6 вебинар дз/Задача 41/obj/Debug/net6.0/Задача 41.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/6 вебинар дз/Задача 41/obj/Debug/net6.0/Задача 41.csproj.CoreCompileInputs.cache
