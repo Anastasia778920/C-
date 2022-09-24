@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/bin/Debug/net6.0/задача 52
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/bin/Debug/net6.0/задача 52.deps.json
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/bin/Debug/net6.0/задача 52.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/bin/Debug/net6.0/задача 52.dll
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/bin/Debug/net6.0/задача 52.pdb
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.dll
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/refint/задача 52.dll
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.pdb
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/задача 52.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/7 семинар дз /задача 52/obj/Debug/net6.0/ref/задача 52.dll
