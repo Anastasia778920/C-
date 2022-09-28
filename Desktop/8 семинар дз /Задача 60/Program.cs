@@ -2,25 +2,15 @@
 // Массив размером 2 x 2 x 2
 
 Console.Clear();
-Console.WriteLine($"\nВведите размер массива m x n и диапазон случайных значений:");
-int m = InputNumbers("Введите m: ");
-int n = InputNumbers("Введите n: ");
-int range = InputNumbers("Введите диапазон: от 1 до ");
+Console.WriteLine($"\nВведите размер массива X x Y x Z:");
+int x = InputNumbers("Введите X: ");
+int y = InputNumbers("Введите Y: ");
+int z = InputNumbers("Введите Z: ");
+Console.WriteLine($"");
 
-int[,] array = new int[m, n];
-CreateArray(array);
-WriteArray(array);
-
-int[,] positionSmallElement = new int[1, 2];
-positionSmallElement = FindPositionSmallElement(array, positionSmallElement);
-Console.Write($"Позиция элемента: \n");
-WriteArray(positionSmallElement);
-
-int[,] arrayWithoutLines = new int[array.GetLength(0) - 1, array.GetLength(1) - 1];
-DeleteLines(array, positionSmallElement, arrayWithoutLines);
-Console.WriteLine($"\nПолучившийся массив:");
-WriteArray(arrayWithoutLines);
-
+int[,,] array3D = new int[x, y, z];
+CreateArray(array3D);
+WriteArray(array3D);
 
 int InputNumbers(string input)
 {
@@ -29,65 +19,55 @@ int InputNumbers(string input)
   return output;
 }
 
-void CreateArray(int[,] array)
+void WriteArray (int[,,] array3D)
 {
-  for (int i = 0; i < array.GetLength(0); i++)
+  for (int i = 0; i < array3D.GetLength(0); i++)
   {
-    for (int j = 0; j < array.GetLength(1); j++)
+    for (int j = 0; j < array3D.GetLength(1); j++)
     {
-      array[i, j] = new Random().Next(range);
-    }
-  }
-}
-
-void WriteArray(int[,] array)
-{
-  for (int i = 0; i < array.GetLength(0); i++)
-  {
-    for (int j = 0; j < array.GetLength(1); j++)
-    {
-      Console.Write(array[i, j] + " ");
+      Console.Write($"X({i}) Y({j}) ");
+      for (int k = 0; k < array3D.GetLength(2); k++)
+      {
+        Console.Write( $"Z({k})={array3D[i,j,k]}; ");
+      }
+      Console.WriteLine();
     }
     Console.WriteLine();
   }
 }
 
-int[,] FindPositionSmallElement(int[,] array, int[,] position)
+void CreateArray(int[,,] array3D)
 {
-  int temp = array[0, 0];
-  for (int i = 0; i < array.GetLength(0); i++)
+  int[] temp = new int[array3D.GetLength(0) * array3D.GetLength(1) * array3D.GetLength(2)];
+  int  number;
+  for (int i = 0; i < temp.GetLength(0); i++)
   {
-    for (int j = 0; j < array.GetLength(1); j++)
+    temp[i] = new Random().Next(10, 100);
+    number = temp[i];
+    if (i >= 1)
     {
-      if (array[i, j] <= temp)
+      for (int j = 0; j < i; j++)
       {
-        position[0, 0] = i;
-        position[0, 1] = j;
-        temp = array[i, j];
+        while (temp[i] == temp[j])
+        {
+          temp[i] = new Random().Next(10, 100);
+          j = 0;
+          number = temp[i];
+        }
+          number = temp[i];
       }
     }
   }
-  Console.WriteLine($"\nMинимальный элемент: {temp}");
-  return position;
-}
-
-void DeleteLines(int[,] array, int[,] positionSmallElement, int[,] arrayWithoutLines)
-{
-  int k = 0, l = 0;
-  for (int i = 0; i < array.GetLength(0); i++)
+  int count = 0; 
+  for (int x = 0; x < array3D.GetLength(0); x++)
   {
-    for (int j = 0; j < array.GetLength(1); j++)
+    for (int y = 0; y < array3D.GetLength(1); y++)
     {
-      if (positionSmallElement[0, 0] != i && positionSmallElement[0, 1] != j)
+      for (int z = 0; z < array3D.GetLength(2); z++)
       {
-        arrayWithoutLines[k, l] = array[i, j];
-        l++;
+        array3D[x, y, z] = temp[count];
+        count++;
       }
-    }
-    l = 0;
-    if (positionSmallElement[0, 0] != i)
-    {
-      k++;
     }
   }
 }
