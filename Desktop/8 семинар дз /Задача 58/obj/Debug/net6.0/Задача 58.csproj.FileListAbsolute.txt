@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/bin/Debug/net6.0/Задача 58
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/bin/Debug/net6.0/Задача 58.deps.json
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/bin/Debug/net6.0/Задача 58.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/bin/Debug/net6.0/Задача 58.dll
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/bin/Debug/net6.0/Задача 58.pdb
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.dll
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/refint/Задача 58.dll
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.pdb
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/Задача 58.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/8 семинар дз /Задача 58/obj/Debug/net6.0/ref/Задача 58.dll
