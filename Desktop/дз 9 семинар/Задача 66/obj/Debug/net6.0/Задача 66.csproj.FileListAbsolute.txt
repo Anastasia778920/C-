@@ -1,0 +1,15 @@
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/bin/Debug/net6.0/Задача 66
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/bin/Debug/net6.0/Задача 66.deps.json
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/bin/Debug/net6.0/Задача 66.runtimeconfig.json
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/bin/Debug/net6.0/Задача 66.dll
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/bin/Debug/net6.0/Задача 66.pdb
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.csproj.AssemblyReference.cache
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.AssemblyInfoInputs.cache
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.AssemblyInfo.cs
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.csproj.CoreCompileInputs.cache
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.dll
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/refint/Задача 66.dll
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.pdb
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/Задача 66.genruntimeconfig.cache
+/Users/anastasiazaharova/Desktop/дз 9 семинар/Задача 66/obj/Debug/net6.0/ref/Задача 66.dll
